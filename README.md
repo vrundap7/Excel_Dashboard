@@ -31,7 +31,7 @@ This dashboard is perfect if you:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard-preview.png)
+Dashboard Screenshot :- (https://github.com/vrundap7/Excel_Dashboard/blob/main/Dashboard-Preview.png.png)
 
 
 ## 💡 Tip
